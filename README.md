@@ -68,7 +68,7 @@ images/ → dashboard screenshots
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](C:\Users\Admin\Downloads\Project_Agriculture\GIT\Capture.jpg)
 
 ---
 
